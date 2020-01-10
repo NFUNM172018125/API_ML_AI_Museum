@@ -51,7 +51,18 @@
 
 3. 小静国庆期间去了故宫博物馆，里面的展品很感兴趣，想了解更多展品信息，但是人流量过多，解说员人手不足小静打开了软件，软件根据小静位置，实时播报展品信息。
 
-### 原型
-[原型]( http://nfunm172018125.gitee.io/hsj)
+## 原型
+### 产品架构图
+![产品架构图](https://github.com/NFUNM172018125/API_ML_AI_Museum/blob/master/%E4%BA%A7%E5%93%81%E6%A1%86%E6%9E%B6.png)
+
+### [交互设计及界面]( http://nfunm172018125.gitee.io/hsj)
+
+### [信息设计]( http://nfunm172018125.gitee.io/hsj)
+
+### 产品原型
+[原型文档](http://nfunm172018125.gitee.io/hsj)
+[原型下载地址](http://nfunm172018125.gitee.io/hsj)
+
+
 
  
